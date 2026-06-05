@@ -36,6 +36,7 @@ const projects = [
     status: 'En preparación',
     description:
       'Sitio orientado a recopilar información útil para jugadores y aficionados al tenis en Oviedo. En fase de contenido, estructura y validación previa al despliegue.',
+    url: 'https://oviedotenis.vercel.app/',
     image: '/projects/oviedo-tenis.jpg',
     tags: ['SEO local', 'Comunidad', 'Investigación'],
   },
